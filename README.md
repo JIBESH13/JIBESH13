@@ -4,10 +4,10 @@ Portfolio
 Eager to learn and work in DevStack Technologies
 - 🧑‍💻 I’m currently working on Web Development.
 - 🤝 I’m looking for help and collaboration on Projects of ReactJS and Backend Development.
-- 📫 Reach me on: jibeshpr6c.1@gmail.com
+- 📫 Reach me: jibeshpr6c.1@gmail.com
 
 ## **Connect with me:**
-<a href='www.linkedin.com/in/jibesh-kumar-391915213/'>
+<a href='https://www.linkedin.com/in/jibesh-kumar-391915213/'>
 <img src='https://github.com/JIBESH13/jibeshkumar/assets/96392979/5fbf6f91-417d-460b-ae6d-54bd9ec72ae5' width='60'>
 </a>
 
