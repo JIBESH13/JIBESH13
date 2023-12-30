@@ -10,4 +10,5 @@ Eager to learn and work in DevStack Technologies
 www.linkedin.com/in/jibesh-kumar-391915213/
 
 ## **Languages and Skills:**
-https://www.cprogramming.com/ [cplusplus] [java] [html5] [css3] [javascript] [mysql] [react] [node]
+![download](https://github.com/JIBESH13/jibeshkumar/assets/96392979/9f463d4e-c246-44cc-b766-d06cc9117ba7)
+ [cplusplus] [java] [html5] [css3] [javascript] [mysql] [react] [node]
