@@ -7,7 +7,7 @@ Eager to learn and work in DevStack Technologies
 - 📫 Reach me on: jibeshpr6c.1@gmail.com
 
 ## **Connect with me:**
-(www.linkedin.com/in/jibesh-kumar-391915213/)
+www.linkedin.com/in/jibesh-kumar-391915213/
 
 ## **Languages and Skills:**
-(https://www.cprogramming.com/) [cplusplus] [java] [html5] [css3] [javascript] [mysql] [react] [node]
+https://www.cprogramming.com/ [cplusplus] [java] [html5] [css3] [javascript] [mysql] [react] [node]
